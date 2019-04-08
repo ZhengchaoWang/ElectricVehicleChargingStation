@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="charing"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="charing">
+				<Option output="/Users/zhengchaowang/Code/C++/chargingsop/charing/build/bin/charing" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug/../build/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/zhengchaowang/Code/C++/chargingsop/charing/include"/>
+					<Add directory="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/charging_facility"/>
+					<Add directory="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/private"/>
+					<Add directory="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/taxi"/>
+					<Add directory="/usr/local/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug/Makefile&quot;  VERBOSE=1 charing"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="charing/fast">
+				<Option output="/Users/zhengchaowang/Code/C++/chargingsop/charing/build/bin/charing" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug/../build/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Users/zhengchaowang/Code/C++/chargingsop/charing/include"/>
+					<Add directory="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/charging_facility"/>
+					<Add directory="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/private"/>
+					<Add directory="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/taxi"/>
+					<Add directory="/usr/local/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug/Makefile&quot;  VERBOSE=1 charing/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/Users/zhengchaowang/Code/C++/chargingsop/charing/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/location_problem/Pmedian/P_Median.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/parameters.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/optimization/VNS/AVNDS.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/optimization/VNS/VNDS.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/optimization/VNS/VNSwASHT.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/optimization/heuristic/Heuristics.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/optimization/local_search/Local_Search.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/optimization/local_search/Local_Search_Simulation.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/optimization/simulated_annealing/Simulated_Annealing_Budget.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/optimization/simulated_annealing/Simulated_Annealing_Tradeoff.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/charging_facility/Charging_Station.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/charging_facility/Charging_Station_General.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/charging_facility/Charging_Station_General_Manager.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/charging_facility/Charging_Station_Manager.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/charging_facility/Charging_Station_Performance.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/helpers/Charge_Choice.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/helpers/Initial_Info.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/helpers/Mobility_Demand_Container.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/helpers/One_Charge.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/helpers/One_Simulation.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/helpers/Plan.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/helpers/Simulation.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/helpers/Simulation_General.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/helpers/Stations_Piles_Info.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/helpers/Taxi_Performance.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/helpers/Taxi_Performance_General.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/private/Private_Vehicle.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/taxi/Optimal_Charge_Choice.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/taxi/ReProduce_Taxi_Fleet.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/taxi/Taxi_Demand.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/taxi/Taxi_Fleet.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/taxi/Taxi_History.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/taxi/Vehicle.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/taxi/Vehicle_Fleet.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/taxi/normal_taxi/Taxi.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/taxi/reproduce_taxi/ReProduce_Taxi.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/taxi/reproduce_taxi/ReProduce_Taxi_General.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/taxi/reproduce_taxi/ReProduce_Taxi_Tour.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/taxi/reproduce_taxi/ReProduce_Taxi_Trip.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/taxi/taxi_request/Request_Assignment.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/taxi/taxi_request/Request_Generator.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/taxi/taxi_request/Request_Set.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/include/station_optimization/simulation/taxi/taxi_request/Taxi_Request.h">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/location_problem/Pmedian/P_Median.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/main.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/optimization/VNS/AVNDS.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/optimization/VNS/VNDS.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/optimization/VNS/VNSwASHT.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/optimization/heuristic/Heuristics.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/optimization/local_search/Local_Search.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/optimization/local_search/Local_Search_Simulation.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/optimization/simulated_annealing/Simulated_Annealing_Budget.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/optimization/simulated_annealing/Simulated_Annealing_Tradeoff.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/simulation/charging_facility/Charging_Station.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/simulation/charging_facility/Charging_Station_General.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/simulation/charging_facility/Charging_Station_General_Manager.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/simulation/charging_facility/Charging_Station_Manager.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/simulation/charging_facility/Charging_Station_Performance.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/simulation/helpers/Initial_Info.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/simulation/helpers/One_Charge.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/simulation/helpers/One_Simulation.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/simulation/helpers/Plan.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/simulation/helpers/Station_Piles_Info.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/simulation/helpers/test.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/simulation/taxi/Optimal_Charge_Choice.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/simulation/taxi/Taxi_Performance.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/simulation/taxi/Taxi_Performance_General.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/simulation/taxi/Vehicle.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/simulation/taxi/normal_taxi/Taxi.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/simulation/taxi/reproduce_taxi/ReProduce_Taxi.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/simulation/taxi/reproduce_taxi/ReProduce_Taxi_General.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/simulation/taxi/reproduce_taxi/ReProduce_Taxi_Tour.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/simulation/taxi/reproduce_taxi/ReProduce_Taxi_Trip.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/simulation/taxi/taxi_request/Request_Generator.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/simulation/taxi/taxi_request/Request_Set.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/src/station_optimization/simulation/taxi/taxi_request/Taxi_Request.cpp">
+			<Option target="charing"/>
+		</Unit>
+		<Unit filename="/Users/zhengchaowang/Code/C++/chargingsop/charing/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

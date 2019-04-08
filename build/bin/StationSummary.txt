@@ -1,0 +1,5 @@
+charging station ID	Maximum queue length	averge wait time	total wait number	utilization ratio
+0	31	11075.2	134	0.553577	0.57692
+1	0	-999	0	0.193186	0.00506034
+2	0	-999	0	0.127771	0
+3	395	37113.1	611	0.685982	0.679608
